@@ -26,7 +26,7 @@ body {
 .container {
   margin: 0 auto;
   max-width: 740px;
-  padding: 0 10px;
+  padding: 5 10px;
   width: 100%;
 background:rgba(0,153,204,0.8)
 }
@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6 {
 
   line-height: 1.7;
   margin: 1em 0 15px;
-  padding: 0;
+  padding: 2;
 
   @include mobile {
     line-height: 1.4;
