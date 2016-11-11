@@ -124,8 +124,8 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
-  background: $lightGray;
+  color: #001f4d;
+  background: #991f00;
 }
 ::selection {
   color: $black;
@@ -174,7 +174,7 @@ img {
 
   @include mobile {
     float: 1;
-    display: block;
+    display: curve;
     margin: 0 auto;
   }
 
