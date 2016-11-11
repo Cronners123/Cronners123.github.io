@@ -24,7 +24,7 @@ body {
 }
 
 .container {
-  margin: 0 auto;
+  margin: 2 auto;
   max-width: 740px;
   padding: 5 10px;
   width: 100%;
@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: bold;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
+  margin: 1em 10 15px;
   padding: 2;
 
   @include mobile {
