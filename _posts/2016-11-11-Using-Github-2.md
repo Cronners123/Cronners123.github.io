@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>A half made blog</td>
+    <td>A half made blog.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
