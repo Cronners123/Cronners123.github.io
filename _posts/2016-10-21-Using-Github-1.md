@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td></td>
-    <td>Using github1</td>
-    <td></td>
+    <td>Title</td>
+    <td>Using github 1</td>
+    <td>Date</td>
     <td>14/10/16</td>
   </tr>
 </table>
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>Basic Github account. Edited Config.yml</td>
+    <td>Basic Github account. Edited Config.yml.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td>To have a Github Pages Static Website.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
