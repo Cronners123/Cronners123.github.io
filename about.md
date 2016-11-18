@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a blog for school.
+   This is a blog for school.
