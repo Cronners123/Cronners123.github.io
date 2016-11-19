@@ -21,7 +21,7 @@ body {
 	background-image: url("http://wallpapercave.com/wp/tXw5AvT.jpg");
 	background-repeat: no-repeat;
   font: 18px/1.4 roboto;
-  color:#0000ff;
+  color:#4484CE;
 }
 
 .container {
@@ -35,7 +35,7 @@ background:rgba(0,153,204,0.8);
 
 h1, h2, h3, h4, h5, h6 {
   font-family: Orbitron;
-  color: #0000ff;
+  color: #D9D9D9;
   font-weight: bold;
 
   line-height: 1.7;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #009999;
+    color: #D9D9D9;
   }
 }
 
@@ -64,7 +64,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #009999;
+  color: #D9D9D9;
 }
 
 p {
@@ -72,11 +72,11 @@ p {
 }
 
 a {
-  color: #009999;
+  color: #D9D9D9;
   text-decoration: none;
 	cursor: crosshair;
   &:hover, &:active {
-    color: #0000ff;
+    color: #4484CE;
   }
 }
 
@@ -120,7 +120,7 @@ width: 100%;
 
 table, th, td {
 border: 1px solid white;
-background-color:#40ff00;
+background-color:#F9CF00;
 
 }
 
@@ -131,7 +131,7 @@ padding: 10px;
 
 th {
 color: white;
-background: #40ff00;
+background: #F9CF00;
 height:50px;
 vertical-align: middle;
 }
@@ -144,13 +144,13 @@ vertical-align: middle;
 
 .date {
   font-style: italic;
-  color: #33ccff;
+  color: #F19F4D;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #001f4d;
-  background: #991f00;
+  color: #F19F4D;
+  background: #D9D9D9;
 }
 ::selection {
   color: $black;
