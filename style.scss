@@ -133,7 +133,7 @@ padding: 20px;
 
 th {
 color: #D9D9D9;
-background: #F9CF00;
+background: #4484CE;
 height:50px;
 vertical-align: middle;
 }
@@ -202,7 +202,7 @@ vertical-align: middle;
   @include mobile {
     float: 1;
     display: curve;
-    margin: 0 auto;
+    margin: 4 auto;
   }
 
   img {
@@ -222,7 +222,7 @@ vertical-align: middle;
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #F9CF00;
   cursor: crosshair;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -241,7 +241,7 @@ vertical-align: middle;
 }
 
 nav {
-  float: left;
+  float: center;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
@@ -305,7 +305,6 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
 }
 
 footer {
