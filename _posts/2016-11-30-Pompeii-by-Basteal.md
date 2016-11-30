@@ -1,8 +1,8 @@
 ---
-title: Pompeii by Basteal
+title: Pompeii by Bastille;
 layout: post
 author: charles.cronly
-permalink: /pompeii-by-basteal/
+permalink: /pompeii-by-bastille/
 source-id: 1veTicoiCushMJwtR7VqieLlIQ7YIXXThVNi9deMr3B4
 published: true
 ---
