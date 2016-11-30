@@ -1,5 +1,5 @@
 ---
-title: Pompeii by Bastille;
+title: Pompeii by Bastille
 layout: post
 author: charles.cronly
 permalink: /pompeii-by-bastille/
