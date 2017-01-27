@@ -10,7 +10,7 @@ Week 1
 
 <table>
   <tr>
-    <td>What are you going to work on today?</td>
+    <th>What are you going to work on today?</th>
   </tr>
   <tr>
     <td>Today I want to create my thumbnail and my main character and my start screen.</td>
@@ -22,8 +22,8 @@ Week 1
 
 <table>
   <tr>
-    <td>Teacher's?</td>
-    <td>Mine?</td>
+    <th>Teacher's?</th>
+    <th>Mine?</th>
   </tr>
   <tr>
     <td>having created all of your principal sprites.
@@ -40,19 +40,19 @@ Make a start screen.</td>
 
 <table>
   <tr>
-    <td>Beginning of Lesson: What have you done so far? What point of the work are you at?</td>
+    <th>Beginning of Lesson: What have you done so far? What point of the work are you at?</th>
   </tr>
   <tr>
     <td>I have already worked on the movement of the main character and his sword.</td>
   </tr>
   <tr>
-    <td>Activity:  What are you going to be doing this lesson? </td>
+    <th>Activity:  What are you going to be doing this lesson? </th>
   </tr>
   <tr>
-    <td>I will hame my stating screen and instructions and then will perfect the main character's movement.</td>
+    <td>I will make my stating screen and instructions and then will perfect the main character's movement.</td>
   </tr>
   <tr>
-    <td>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </td>
+    <th>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </th>
   </tr>
   <tr>
     <td>At the end of the lesson I had a working start screen, Instructions screen, and the beginning of level 1 on the actual game.</td>
@@ -64,13 +64,13 @@ Make a start screen.</td>
 
 <table>
   <tr>
-    <td>What went well: How did I learn? What helped me learn today? </td>
+    <th>What went well: How did I learn? What helped me learn today? </th>
   </tr>
   <tr>
     <td>I got straight on with my work and didn't really get distracted.</td>
   </tr>
   <tr>
-    <td>Even better if…: What could I do that would be even better? Improvements? </td>
+    <th>Even better if…: What could I do that would be even better? Improvements? </th>
   </tr>
   <tr>
     <td>I had a little problem with the jumping of my character and I hadn't quite tried every thing when I was going to ask my teacher but then I realised what the problem was and so I put it right. So next lesson I will analyze faulty code more carefully.</td>
