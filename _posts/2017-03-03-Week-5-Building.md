@@ -22,8 +22,8 @@ Week 5: Improving your game
 
 <table>
   <tr>
-    <td>Teacher's?</td>
-    <td>Mine?</td>
+    <th>Teacher's?</th>
+    <th>Mine?</th>
   </tr>
   <tr>
     <td>Enter the given criteria
@@ -40,19 +40,19 @@ Have working highscores.
 
 <table>
   <tr>
-    <td>Beginning of Lesson: What have you done so far? What point of the work are you at?</td>
+    <th>Beginning of Lesson: What have you done so far? What point of the work are you at?</th>
   </tr>
   <tr>
     <td>So far I have a bit of a glitchy game but it does work quite well.</td>
   </tr>
   <tr>
-    <td>Activity:  What are you going to be doing this lesson? </td>
+    <th>Activity:  What are you going to be doing this lesson? </th>
   </tr>
   <tr>
     <td>This lesson I am going to fix the high-score because at the moment it doesn't reset when you beat it. Also I am going to edit my instructions page because it doesn’t say about the endless mode at the end of my game.</td>
   </tr>
   <tr>
-    <td>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </td>
+    <th>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </th>
   </tr>
   <tr>
     <td>I have now fixed my high-score and I have edited my instructions page so it includes the endless mode at the end of my game.</td>
@@ -64,13 +64,13 @@ Have working highscores.
 
 <table>
   <tr>
-    <td>What went well: How did I learn? What helped me learn today? </td>
+    <th>What went well: How did I learn? What helped me learn today? </th>
   </tr>
   <tr>
     <td>I finished all that I wanted with lots of time to spare.</td>
   </tr>
   <tr>
-    <td>Even better if…: What could I do that would be even better? Improvements? </td>
+    <th>Even better if…: What could I do that would be even better? Improvements? </th>
   </tr>
   <tr>
     <td>I had had more things that I could do on my game so that it would be even better.</td>
