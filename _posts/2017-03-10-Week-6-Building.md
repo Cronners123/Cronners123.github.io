@@ -10,7 +10,7 @@ Week 6
 
 <table>
   <tr>
-    <td>What are you going to work on today?</td>
+    <th>What are you going to work on today?</th>
   </tr>
   <tr>
     <td>I will fix the glitches with the sword. I will make a highscore for the levels.</td>
@@ -22,7 +22,7 @@ Week 6
 
 <table>
   <tr>
-    <td>Teacher's?</td>
+    <th>Teacher's?</th>
     <td>Mine?</td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ Make a high-level variable.</td>
 
 <table>
   <tr>
-    <td>Beginning of Lesson: What have you done so far? What point of the work are you at?</td>
+    <th>Beginning of Lesson: What have you done so far? What point of the work are you at?</th>
   </tr>
   <tr>
     <td>I have a good game with a couple of glitches but it is almost complete. Here is my game:       <iframe allowtransparency="true" width="485" height="402" src="//scratch.mit.edu/projects/embed/147047415/?autostart=false" frameborder="0" allowfullscreen></iframe>
@@ -47,13 +47,13 @@ Make a high-level variable.</td>
 </td>
   </tr>
   <tr>
-    <td>Activity:  What are you going to be doing this lesson? </td>
+    <th>Activity:  What are you going to be doing this lesson? </th>
   </tr>
   <tr>
     <td>I will fix my sword and make a new variable called high level.</td>
   </tr>
   <tr>
-    <td>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </td>
+    <th>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </th>
   </tr>
   <tr>
     <td>I have met my goal and now have a fully working game with no glitches or things wrong with it as far as I can tell.</td>
@@ -65,13 +65,13 @@ Make a high-level variable.</td>
 
 <table>
   <tr>
-    <td>What went well: How did I learn? What helped me learn today? </td>
+    <th>What went well: How did I learn? What helped me learn today? </th>
   </tr>
   <tr>
     <td>I got straight on with the work and did it with efficiency.</td>
   </tr>
   <tr>
-    <td>Even better if…: What could I do that would be even better? Improvements? </td>
+    <th>Even better if…: What could I do that would be even better? Improvements? </th>
   </tr>
   <tr>
     <td>It would have been easier if the WiFi was because a made a few mistakes because scratch was lagging.</td>
