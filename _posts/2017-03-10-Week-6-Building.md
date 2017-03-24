@@ -23,7 +23,7 @@ Week 6
 <table>
   <tr>
     <th>Teacher's?</th>
-    <td>Mine?</td>
+    <th>Mine?</th>
   </tr>
   <tr>
     <td>Enter the given criteria
